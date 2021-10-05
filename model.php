@@ -1,0 +1,4 @@
+<?php
+//Fichero model.php
+
+?>
